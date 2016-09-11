@@ -1,6 +1,12 @@
 nav{
 	background-color: #27AD60;
 }
+.pg{
+	padding: 0%;
+}
+.pg-5{
+	padding: 5%;
+}
 .mg{
 	margin: 0%;
 }
@@ -14,10 +20,12 @@ nav{
 .bg-1{
 	background-image: url("../img/carousel-bg.jpg"); 
 	background-repeat: no-repeat;
+	background-size: 100% 300px;
 }
 #cl-1{
 	background-color:#69D2E7; 
 	height: 100px;
+	margin-left: 35%;
 }
 #cl-2{
 	background-color:#A7DBDB; 
@@ -34,15 +42,21 @@ nav{
 #cl-5{
 	background-color:#FA6900;
 	height: 100px; 
+	margin-right: 35%;
 }
-.d-1{
-	border: 1em solid #2A6C56;
-	background-color: #8F5F38
-}
+
 .fdo{
 	background-color: #2C3E50;
 }
 .fdo-1{
 	background-color: #27AD60;
 }
-hr{ width: 20%; }
+hr{ width: 20%; 
+}
+h1, h2, h3, p{
+	color: white;
+}
+h4{
+	font-size: 2em;
+}
+
