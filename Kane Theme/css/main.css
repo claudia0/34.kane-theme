@@ -1,0 +1,48 @@
+nav{
+	background-color: #27AD60;
+}
+.mg{
+	margin: 0%;
+}
+.pdg{
+	padding: 3% 5%;
+}
+.pg-tp{
+	padding-top: 1%;
+}
+
+.bg-1{
+	background-image: url("../img/carousel-bg.jpg"); 
+	background-repeat: no-repeat;
+}
+#cl-1{
+	background-color:#69D2E7; 
+	height: 100px;
+}
+#cl-2{
+	background-color:#A7DBDB; 
+	height: 100px;
+}   
+#cl-3{
+	background-color:#E0E4CC; 
+	height: 100px;
+}
+#cl-4{
+	background-color:#F38630;
+	height: 100px; 
+}
+#cl-5{
+	background-color:#FA6900;
+	height: 100px; 
+}
+.d-1{
+	border: 1em solid #2A6C56;
+	background-color: #8F5F38
+}
+.fdo{
+	background-color: #2C3E50;
+}
+.fdo-1{
+	background-color: #27AD60;
+}
+hr{ width: 20%; }
