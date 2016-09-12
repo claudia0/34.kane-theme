@@ -51,7 +51,77 @@ nav{
 	height: 100px; 
 	margin-right: 35%;
 }
-
+#cl-6{
+	background-color: #E94C6F;
+	height: 100px;
+	margin-left: 35%;
+}
+#cl-7{
+	background-color: #542733;
+	height: 100px;
+}
+#cl-8{
+	background-color: #5A6A62;
+	height: 100px;
+}
+#cl-9{
+	background-color: #C6D5CD;
+	height: 100px;
+}
+#cl-10{
+	background-color: #FDF200;
+	height: 100px;
+	margin-right: 35%;
+}
+#cl-11{
+	background-color: #DB3340;
+	height: 100px;
+	margin-left: 35%;
+}
+#cl-12{
+	background-color: #E8B71A;
+	height: 100px;
+}
+#cl-13{
+	background-color: #F2AE72;
+	height: 100px;
+}
+#cl-14{
+	background-color: #1FDA9A;
+	height: 100px;
+}
+#cl-15{
+	background-color: #28ABE3;
+	height: 100px;
+	margin-right: 35%;
+}
+}
+#cl-16{
+	background-color: #28ABE3;
+	height: 100px;
+	margin-left: 34%;
+}
+#cl-17{
+	background-color: #F2E394;
+	height: 100px;
+}
+#cl-18{
+	background-color: #F7EAC8;
+	height: 100px;
+}
+#cl-19{
+	background-color: #D96459;
+	height: 100px;
+}
+#cl-20{
+	background-color: #8C4646;
+	height: 100px;
+	margin-right: 35%;
+}
+.fto-1{
+	width: 80%;
+	height:250px;
+}
 .fdo{
 	background-color: #2C3E50;
 }
@@ -62,6 +132,7 @@ hr{ width: 20%;
 }
 h1, h2, h3, p{
 	color: white;
+	font-family: Arial;
 }
 h4{
 	font-size: 2em;
@@ -89,3 +160,7 @@ footer{
 	color: #fff;
 	margin: 3%;
 }
+.br{
+	height: 10px;
+	border: solid 2px gray;
+}/*la clase de progress-bar*?
