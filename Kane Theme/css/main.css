@@ -1,6 +1,9 @@
 nav{
 	background-color: #27AD60;
 }
+.pg-l{
+	padding-left: 18%;
+}
 .pg{
 	padding: 0%;
 }
@@ -65,4 +68,24 @@ h4{
 }
 span{
 	color: #C1712A;
+}
+.fdo-2{
+	background-image:url("../img/img-divider-img.jpg");
+	background-size: cover; 
+}
+i{
+	color: #fff;
+	padding: 2%;
+}
+span i{
+	color: #C1712A;
+ }
+
+footer{
+	background-color: #27AD60;
+}
+.bt-clr{
+	background-color: #443E44;
+	color: #fff;
+	margin: 3%;
 }
